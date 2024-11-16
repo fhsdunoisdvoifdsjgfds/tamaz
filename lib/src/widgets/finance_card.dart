@@ -6,7 +6,7 @@ import '../core/utils.dart';
 import '../models/finance.dart';
 import '../pages/finance_detail_page.dart';
 import 'cup_button.dart';
-import 'sheet_widget.dart';
+import 'sheet_wd.dart';
 
 class FinanceCard extends StatelessWidget {
   const FinanceCard({

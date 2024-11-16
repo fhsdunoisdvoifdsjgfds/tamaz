@@ -12,8 +12,8 @@ import '../widgets/finance_card.dart';
 import '../widgets/friends_widget.dart';
 import '../widgets/history_card.dart';
 import '../widgets/no_data.dart';
-import '../widgets/sheet_widget.dart';
-import '../widgets/welcome_widget.dart';
+import '../widgets/sheet_wd.dart';
+import '../widgets/welcome_wd.dart';
 import 'finance_page.dart';
 import 'history_page.dart';
 

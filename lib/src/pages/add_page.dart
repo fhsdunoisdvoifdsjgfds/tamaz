@@ -10,7 +10,7 @@ import '../widgets/main_button.dart';
 import '../widgets/my_field.dart';
 import '../widgets/cat_card.dart';
 import '../widgets/field_title.dart';
-import '../widgets/title_text.dart';
+import '../widgets/title_data.dart';
 
 class AddPage extends StatefulWidget {
   const AddPage({

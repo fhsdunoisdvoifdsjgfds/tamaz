@@ -5,7 +5,7 @@ import '../core/utils.dart';
 import '../core/fonts.dart';
 import '../widgets/cup_button.dart';
 import '../widgets/my_svg.dart';
-import '../widgets/title_text.dart';
+import '../widgets/title_data.dart';
 
 class SettingsPage extends StatelessWidget {
   const SettingsPage({super.key});

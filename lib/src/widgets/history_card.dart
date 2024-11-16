@@ -6,7 +6,7 @@ import '../core/utils.dart';
 import 'cup_button.dart';
 import 'my_svg.dart';
 import '../pages/edit_page.dart';
-import 'sheet_widget.dart';
+import 'sheet_wd.dart';
 
 class HistoryCard extends StatelessWidget {
   const HistoryCard({

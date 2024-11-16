@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import '../core/fonts.dart';
 import '../models/finance.dart';
-import '../widgets/title_text.dart';
+import '../widgets/title_data.dart';
 
 class FinanceDetailPage extends StatelessWidget {
   const FinanceDetailPage({

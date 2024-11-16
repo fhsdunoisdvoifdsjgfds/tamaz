@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../models/finance.dart';
 import '../widgets/finance_card.dart';
-import '../widgets/title_text.dart';
+import '../widgets/title_data.dart';
 
 class FinancePage extends StatelessWidget {
   const FinancePage({super.key});

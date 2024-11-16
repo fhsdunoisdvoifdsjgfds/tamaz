@@ -6,7 +6,7 @@ import '../widgets/pie_chart_month.dart';
 import '../widgets/pie_chart_week.dart';
 import '../widgets/my_tab_widget.dart';
 import '../widgets/pie_chart_widget.dart';
-import '../widgets/title_text.dart';
+import '../widgets/title_data.dart';
 
 class PieChartPage extends StatelessWidget {
   const PieChartPage({super.key});

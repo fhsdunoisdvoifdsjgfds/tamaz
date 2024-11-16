@@ -14,7 +14,7 @@ import '../widgets/field_title.dart';
 import '../widgets/main_button.dart';
 import '../widgets/my_field.dart';
 import '../widgets/my_svg.dart';
-import '../widgets/title_text.dart';
+import '../widgets/title_data.dart';
 
 class FriendPage extends StatefulWidget {
   const FriendPage({

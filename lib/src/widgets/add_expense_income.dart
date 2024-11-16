@@ -4,7 +4,7 @@ import '../core/fonts.dart';
 import 'cup_button.dart';
 import 'my_svg.dart';
 import '../pages/add_page.dart';
-import 'sheet_widget.dart';
+import 'sheet_wd.dart';
 
 class AddExpenseIncome extends StatelessWidget {
   const AddExpenseIncome({

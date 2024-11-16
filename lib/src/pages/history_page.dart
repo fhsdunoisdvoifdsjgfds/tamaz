@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../blocs/model/model_bloc.dart';
 import '../widgets/history_card.dart';
 import '../widgets/no_data.dart';
-import '../widgets/title_text.dart';
+import '../widgets/title_data.dart';
 
 class HistoryPage extends StatelessWidget {
   const HistoryPage({super.key});
